@@ -20,7 +20,7 @@
         <hibernate-validator.version>6.0.13.Final</hibernate-validator.version>
         <servlet-api.version>4.0.1</servlet-api.version>
         <jstl.version>1.2</jstl.version>
-        <jackson.version>2.9.8</jackson.version>
+        <jackson.version>2.10.0</jackson.version>
     </properties>
 
     <dependencies>
