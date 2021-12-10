@@ -13,7 +13,7 @@
         <maven.target.version>1.8</maven.target.version>
         <spring.version>5.1.3.RELEASE</spring.version>
         <spring-security.version>5.1.2.RELEASE</spring-security.version>
-        <log4j.version>2.11.1</log4j.version>
+        <log4j.version>2.15.0</log4j.version>
         <hibernate-core.version>5.3.7.Final</hibernate-core.version>
         <hibernate-jpamodelgen.version>5.4.0.Final</hibernate-jpamodelgen.version>
         <validation-api.version>2.0.1.Final</validation-api.version>
